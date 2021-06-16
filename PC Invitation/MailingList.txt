@@ -1,0 +1,10 @@
+Rima Al-Ali <alali@d3s.mff.cuni.cz>
+Shaukat Ali <shaukat@simula.no>
+Francis Bordeleau <francis.bordeleau@etsmtl.ca>
+Frédéric Boulanger <frederic.boulanger@centralesupelec.fr>
+Loli Burgueno <lburguenoc@uoc.edu>
+Antonio Cicchetti <antonio.cicchetti@mdh.se>
+Federico Ciccozzi <federico.ciccozzi@mdh.se>
+Andrea "D'Ambrogio" <dambro@uniroma2.it>
+Juan "de Lara" <Juan.deLara@uam.es>
+Esther Guerra <esther.guerra@uam.es>
