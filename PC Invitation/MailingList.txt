@@ -8,3 +8,12 @@ Federico Ciccozzi <federico.ciccozzi@mdh.se>
 Andrea "D'Ambrogio" <dambro@uniroma2.it>
 Juan "de Lara" <Juan.deLara@uam.es>
 Esther Guerra <esther.guerra@uam.es>
+Hana Mkaouar <hana.mkaouar@telecom-paris.fr>
+Mauro Iacono <mauro.iacono@gmail.com>
+Soumyadip Bandyopadhyay <soumyadipb@goa.bits-pilani.ac.in>
+Ankica Barisic <akki55@gmail.com>
+Eugene Syriani <syriani@iro.umontreal.ca>
+Thomas Kuehne <thomas.kuehne@vuw.ac.nz>
+Stefan Klikovits <stefan.klikovits@gmail.com>
+Ivan Ruchkin <ruchkin.ivan@gmail.com>
+Sebastian Herzig <sebastian.herzig@gmail.com>

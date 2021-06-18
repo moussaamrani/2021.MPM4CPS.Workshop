@@ -7,8 +7,8 @@ Vasco,Amaral,vasco.amaral@fct.unl.pt
 Leja,Banjanovic-Mehmedovic,lejla.mehmedovic@untz.ba
 Ankica,Barisi,ankica.barisic@inria.fr
 Fernando,Barros,barros@dei.uc.pt
-Dominique,Blouin,dominique.blouin@telecom-paristech.fr
-Etienne,Borde,etienne.borde@telecom-paristech.fr
+Dominique,Blouin,dominique.blouin@telecom-paris.fr
+Etienne,Borde,etienne.borde@telecom-paris.fr
 Alessio,Bucaioni,alessio.bucaioni@mdh.se
 Didier,Buchs,Didier.Buchs@unige.ch
 Barbora,Buhnova,buhnova@fi.muni.cz
@@ -31,3 +31,5 @@ Patrizio,Pellicione,patrizio.pelliccione@gssi.it
 Vedra,Podobnik,vedran.podobnik@fer.hr
 Safdar Aqeel,Safdar,safdar.aqeel@dnb.no
 Zeljko,Vukovic,zeljkov@uns.ac.rs
+Haensel, Joachim <Joachim.Haensel@hpi.de>
+Jan Broenink <j.f.broenink@utwente.nl>
